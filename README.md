@@ -2,6 +2,6 @@ WPF application with modern design and interactive input, which is designed to c
 
 ![](images/mainView.png)
 
-![](images/Graham'sAlgorithm.png.png)
+![](images/Graham'sAlgorithm.png)
 
 ![](images/Jarvis'sAlgorithm.png)
